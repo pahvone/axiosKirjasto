@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+span.header {
+  margin-top: 50px;
+  font-weight: 1000;
+  font-size: larger;
+}
+
+span.title {
+  font-weight: 300;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-left: 50px;
+}
+
+span.punchline {
+  font-weight: 600;
+  margin-left: 60px;
+}
